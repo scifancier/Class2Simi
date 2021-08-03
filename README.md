@@ -42,5 +42,5 @@ We process the raw images and labels into *.npy* format. The *MNIST* dataset can
 Here is an example: 
 
 ```bash
-python main.py --dataset mnist --noisetype s --r 0.2 --loss reweight
+python main.py --dataset mnist --noise_type s --r 0.2 --loss reweight
 ```
