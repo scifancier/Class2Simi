@@ -4,7 +4,7 @@ ICML‘2021: Class2Simi: A Noise Reduction Perspective on Learning with Noisy La
 
 
 This is the code for the paper:
-[Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels](http://proceedings.mlr.press/v139/wu21f/wu21f.pdf)      
+[Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels](http://proceedings.mlr.press/v139/wu21f/wu21f.pdf).      
 Songhua Wu<sup>\*</sup>, Xiaobo Xia<sup>\*</sup>, Tongliang Liu, Bo Han, Mingming Gong, Nannan Wang, Haifeng Liu, Gang Niu.
 
 
