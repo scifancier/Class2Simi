@@ -1,5 +1,5 @@
 # Class2Simi
- ICML‘2021: Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels (PyTorch implementation).
+ICML‘2021: Class2Simi: A Noise Reduction Perspective on Learning with Noisy Labels (PyTorch implementation).
 
 
 
